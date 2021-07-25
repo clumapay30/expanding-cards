@@ -1,3 +1,4 @@
 ## Mastering Javascript
 
-#### One of my first project
+#### Demo page 
+#### https://clumapay30.github.io/expanding-cards/
