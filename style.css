@@ -5,6 +5,7 @@
 }
 
 body {
+    background-color: #335c67;
     font-family: 'Muli', sans-serif;
     display: flex;
     align-items: center;
@@ -15,15 +16,18 @@ body {
 }
 
 .container {
+    width: 50vw;
+    height: 150px;
     display: flex;
-    width: 90vw;
+    justify-content: center;
+    align-items: center;
 }
 
 .panel {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 80vh;
+    height: 50vh;
     border-radius: 60px;
     color: #fff;
     cursor: pointer;
