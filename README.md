@@ -1,3 +1,3 @@
-#First project
+## Mastering Javascript
 
-Sharpening my front end language.
+#### One of my first project
